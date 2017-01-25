@@ -1,1 +1,2 @@
-Ciao questo è il nuovo file!
+﻿Ciao questo è il nuovo file!
+Ecco una modifica che darà conflitto
