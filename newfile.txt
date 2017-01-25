@@ -1,1 +1,3 @@
 Ciao questo è il nuovo file!
+
+Ecco la riga scritta nel repository da un altro utente
