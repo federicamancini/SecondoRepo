@@ -1,2 +1,3 @@
 ﻿Ciao questo è il nuovo file!
-Ecco una modifica che darà conflitto
+Ecco la riga scritta nel repository da un altro utente
+Ecco la riga locale
